@@ -1,13 +1,11 @@
 ---
 title: Text Summariser
 emoji: 🌖
-colorFrom: purple
-colorTo: Purple
+colorFrom: yellow
+colorTo: orange
 sdk: gradio
-sdk_version: 3.18.0
 app_file: app.py
 pinned: false
-license: cc
 ---
 
 

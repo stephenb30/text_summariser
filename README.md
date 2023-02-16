@@ -1,4 +1,3 @@
-# text_summariser
 ---
 title: Text Summariser
 emoji: 🌖
